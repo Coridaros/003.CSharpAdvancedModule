@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007.RawData", "007.RawData\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008.CarSalesman", "008.CarSalesman\008.CarSalesman.csproj", "{84410937-D57F-443A-87F0-773E78779D2B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009.PokemonTrainer", "009.PokemonTrainer\009.PokemonTrainer.csproj", "{23CD91E2-1F96-47AC-9F45-40D7D7676A3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010.SoftUniParking", "010.SoftUniParking\010.SoftUniParking.csproj", "{1C24EEC8-F14D-4C10-8F15-BFF411C296A5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +61,14 @@ Global
 		{84410937-D57F-443A-87F0-773E78779D2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84410937-D57F-443A-87F0-773E78779D2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84410937-D57F-443A-87F0-773E78779D2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23CD91E2-1F96-47AC-9F45-40D7D7676A3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23CD91E2-1F96-47AC-9F45-40D7D7676A3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23CD91E2-1F96-47AC-9F45-40D7D7676A3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23CD91E2-1F96-47AC-9F45-40D7D7676A3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C24EEC8-F14D-4C10-8F15-BFF411C296A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C24EEC8-F14D-4C10-8F15-BFF411C296A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C24EEC8-F14D-4C10-8F15-BFF411C296A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C24EEC8-F14D-4C10-8F15-BFF411C296A5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
